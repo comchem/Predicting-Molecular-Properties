@@ -10,6 +10,8 @@ https://github.com/pfnet-research/chainer-chemistry
 
 https://github.com/jparkhill/TensorMol
 
+<p><img src="train.jpg" alt="TensorMol vs DFT" title="train &amp; tracks" /></p>
+
 https://deepchem.io/
 
 others:
