@@ -10,13 +10,13 @@ https://github.com/pfnet-research/chainer-chemistry
 
 https://github.com/jparkhill/TensorMol
 
-<p><img src="train.jpg" alt="TensorMol vs DFT" title="train &amp; tracks" /></p>
+<p><img src="../images/tyrosine.png" alt="" title="" /></p>
 
 https://deepchem.io/
 
 others:
 
--https://github.com/ifding/graph-neural-networks
+https://github.com/ifding/graph-neural-networks
 
 possible approach?
 
